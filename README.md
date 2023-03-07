@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at  <a href="https://github.com/pratheeshraj" target="blank">Github
 
-- 📫 How to reach me **rajeshnsk5@gmail.com**
+- 📫 How to reach me <a href="rajeshnsk5@gmail.com" target="blank">Email
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
