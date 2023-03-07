@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratheeshraj] Github
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/pratheeshraj" target="blank">Github
 
 - 📫 How to reach me **rajeshnsk5@gmail.com**
 
